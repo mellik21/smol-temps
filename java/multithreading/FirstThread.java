@@ -1,4 +1,4 @@
-package Multithreading;
+package multithreading;
 
 //Нечто, реализующее интерфейс Runnable //(содержащее метод run())
 public class FirstThread implements Runnable {

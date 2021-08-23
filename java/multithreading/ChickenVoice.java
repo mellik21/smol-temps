@@ -1,4 +1,4 @@
-package Multithreading;
+package multithreading;
 
 class EggVoice extends Thread
 {
